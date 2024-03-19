@@ -25,7 +25,7 @@ def main():
     html_temp='''
     <div style='background-color:red; padding:12px'>
     <h1 style='color:  #000000; text-align: center;'>IPL Prediction Machine Learning Model</h1>
-    <h3 style='color:purple; text_align: center;'>This Model is Trained on data from (2008-2017). So,This Model is only for educational purpose if this model predict wrong then it will happen due to lack of data.🙏🏼🙏🏼🙏🏼😔😔</h3>
+    <h3 style='color:black; text_align: center;'>This Model is Trained on data from (2008-2017). So,This Model is only for educational purpose if this model predict wrong then it will happen due to lack of data.🙏🏼🙏🏼🙏🏼😔😔</h3>
     </div>
     <h2 style='color:  red; text-align: center;'>Please Enter Input</h2>
     '''
